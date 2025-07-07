@@ -2,6 +2,8 @@
 
 Note App is a full-stack, mobile-friendly note-taking app that allows users to securely sign up or log in using **Email OTP** or **Google OAuth**. Authenticated users can create and manage personal notes. All protected actions are secured using **JWT authentication**.
 
+# Live Demo : https://highway-delite-sepia.vercel.app/sign-in
+
 ---
 
 ## ✨ Features
@@ -35,8 +37,8 @@ Note App is a full-stack, mobile-friendly note-taking app that allows users to s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/highway-delite.git
-cd highway-delite
+git clone https://github.com/your-username/Note-app.git
+cd Note-App
 ```
 ---
 ### 2. Backend Setup
