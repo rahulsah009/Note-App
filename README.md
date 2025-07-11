@@ -2,7 +2,7 @@
 
 Note App is a full-stack, mobile-friendly note-taking app that allows users to securely sign up or log in using **Email OTP** or **Google OAuth**. Authenticated users can create and manage personal notes. All protected actions are secured using **JWT authentication**.
 
-# Live Demo : https://highway-delite-sepia.vercel.app/sign-in
+# Live Demo : https://highway-delite-sepia.vercel.app/
 
 ---
 
